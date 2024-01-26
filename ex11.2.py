@@ -1,5 +1,6 @@
 import re
 
+print("Hello world!")
 file = open('mbox-short.txt')
 total = 0
 count = 0
